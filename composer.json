@@ -20,7 +20,6 @@
         }
     ],
     "require": {
-        "php" : "~7.0",
         "ext-dom": "*"
     },
     "require-dev": {
